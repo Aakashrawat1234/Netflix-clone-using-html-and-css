@@ -1,4 +1,4 @@
-# Netflix-clone-using-html-and-css
+# Netflix-landing page-using-html-and-css
 
 This project is a simple Netflix Clone created using HTML and CSS. It replicates the front-end user interface of the Netflix homepage and was developed as a class project to strengthen foundational web development skills.
 
